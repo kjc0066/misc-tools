@@ -11,10 +11,10 @@ miscellaneous tools
 
 	misc-tools [-dh] [-c count]
 
-  + -d:
+  + `-d`:  
     debug mode
 
-  + -c count
-    process 'count' lines
+  + `-c count`:  
+    process 'count' lines.
 
 	
